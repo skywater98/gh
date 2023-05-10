@@ -1,0 +1,31 @@
+#scroll-button {
+    position: fixed;
+    display:inline-block;
+    bottom: 30px;
+    right: 30px;
+    width: 30px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: darkblue;
+    text-align: center;
+}
+
+#top {
+    display: inline-block;
+    font-size: 20px;
+    color:white;
+    height:30px;
+}
+
+#bottom {
+    display: inline-block;
+    font-size: 20px;
+    color:white;
+    height: 30px;
+    border-top:1px solid white;
+}
+
+#line {
+    height: 1px;
+    background-color: white;
+}
